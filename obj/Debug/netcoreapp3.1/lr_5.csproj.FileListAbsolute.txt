@@ -1,0 +1,14 @@
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.exe
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.deps.json
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.runtimeconfig.json
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.runtimeconfig.dev.json
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.dll
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\bin\Debug\netcoreapp3.1\lr_5.pdb
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr5.fMain.resources
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.csproj.GenerateResource.cache
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.AssemblyInfoInputs.cache
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.AssemblyInfo.cs
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.csproj.CoreCompileInputs.cache
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.dll
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.pdb
+C:\Users\Yarick\Downloads\Lab__05-main\Lab__05-main\obj\Debug\netcoreapp3.1\lr_5.genruntimeconfig.cache
